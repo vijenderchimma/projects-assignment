@@ -1,0 +1,32 @@
+
+.home-container{
+    background-image: url("https://img.freepik.com/free-vector/business-people-calendar-clock_24908-56083.jpg?w=740&t=st=1704422564~exp=1704423164~hmac=8e4a113826c24efcb8fcf8e570955cc271074820d1538e9933b4fc29cbd85509");
+    min-height: 100vh;
+    background-size: cover;
+    padding: 40px;
+    font-family: "Roboto";
+}
+
+.role{
+    color: #f0ca0c;
+    font-size: 25px;
+}
+.home-card-container{
+    padding: 10px;
+    width: 50%;
+}
+.projects-button{
+    background-color: #f0ca0c;
+    color: #ffffff;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.linkedin-button{
+    padding: 10px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    cursor: pointer;
+}
